@@ -33,4 +33,4 @@ Finally, go through the various cells in the `snowflake-getting-started-with-pyt
 
 
 ## Supplementary Info
-The scripts and notebooks were tested on WSL running Ubuntu 20.04.4 LTS.
+The script and notebook were tested on WSL running Ubuntu 20.04.4 LTS.
